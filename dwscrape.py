@@ -45,6 +45,7 @@ def getMaxPage(response):
 		return False
 
 def returnQueryPage(query, page):
+	# Please note that this has been redacted 
 	dlinks = 'http://someonionaddres.onion'
 	query = ({
 	'action':'Search',
